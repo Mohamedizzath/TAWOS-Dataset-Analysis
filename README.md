@@ -14,7 +14,7 @@ pip install ipython
 pip install ipykernel
 
 ipython kernel install --user --name=env
-python -m ipykernel install --user --name=myenv
+python -m ipykernel install --user --name=env
 ```
 
 Modify connection configurations in notebooks cells
