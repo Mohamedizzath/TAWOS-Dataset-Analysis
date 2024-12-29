@@ -1,0 +1,60 @@
+antecedents    (Resolution_Fixed)
+consequents            (Type_Bug)
+confidence                    1.0
+Name: 0, dtype: object
+
+antecedents            (Type_Bug)
+consequents    (Resolution_Fixed)
+confidence               0.562479
+Name: 1, dtype: object
+
+antecedents                    (Type_Bug)
+consequents    (Updated Status_completed)
+confidence                        0.93788
+Name: 2, dtype: object
+
+antecedents    (Updated Status_completed)
+consequents                    (Type_Bug)
+confidence                            1.0
+Name: 3, dtype: object
+
+antecedents            (Resolution_Fixed)
+consequents    (Updated Status_completed)
+confidence                            1.0
+Name: 4, dtype: object
+
+antecedents    (Updated Status_completed)
+consequents            (Resolution_Fixed)
+confidence                       0.599735
+Name: 5, dtype: object
+
+antecedents    (Resolution_Fixed, Type_Bug)
+consequents      (Updated Status_completed)
+confidence                              1.0
+Name: 6, dtype: object
+
+antecedents    (Resolution_Fixed, Updated Status_completed)
+consequents                                      (Type_Bug)
+confidence                                              1.0
+Name: 7, dtype: object
+
+antecedents    (Type_Bug, Updated Status_completed)
+consequents                      (Resolution_Fixed)
+confidence                                 0.599735
+Name: 8, dtype: object
+
+antecedents                      (Resolution_Fixed)
+consequents    (Type_Bug, Updated Status_completed)
+confidence                                      1.0
+Name: 9, dtype: object
+
+antecedents                                      (Type_Bug)
+consequents    (Resolution_Fixed, Updated Status_completed)
+confidence                                         0.562479
+Name: 10, dtype: object
+
+antecedents      (Updated Status_completed)
+consequents    (Resolution_Fixed, Type_Bug)
+confidence                         0.599735
+Name: 11, dtype: object
+

@@ -1,0 +1,10 @@
+antecedents            (Type_Improvement)
+consequents    (Updated Status_completed)
+confidence                       0.802165
+Name: 0, dtype: object
+
+antecedents    (Updated Status_completed)
+consequents            (Type_Improvement)
+confidence                       0.689295
+Name: 1, dtype: object
+
